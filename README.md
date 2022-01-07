@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BryceEnglish
-- 👀 I’m interested in Java, Android Development, and Machine Learning.
-- 🌱 I’m currently learning more about React/Node.js, Android/React-native, and Shopify. 
-- 💞️ I’m looking to collaborate on Mobile or Web related projects.
+- 👀 I’m interested in Javascript, Web Development, and Machine Learning.
+- 🌱 I’m currently learning more about React, Next.js, and Firebase.
+- 💞️ I’m looking to collaborate on Web related projects.
 - 📫 How to reach me benglish132@gmail.com
 
 <!---
